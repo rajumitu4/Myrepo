@@ -8,6 +8,7 @@ public class father extends grandfather
 	}
 	public static void main(String[] args) 
 	{
+		System.out.println("i am changing Code..");
 		father cs=new father();
 		cs.Method();
 		cs.method1();
